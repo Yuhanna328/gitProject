@@ -1,0 +1,33 @@
+body {
+    background: #181a20;
+    color: #e452e7;
+    font-family: 'Inter', system-ui, sans-serif;
+}
+
+.main-heading {
+    text-align: center;
+    font-size: 4rem;
+    letter-spacing: 3px;
+}
+
+.project-list {
+    padding: 0;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.project-link {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #38bdf8;
+    background: #222a3b;
+    border-radius: 12px;
+    padding: 16px 36px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.project-link:hover {
+    background: #38bdf8;
+    color: #222a3b;
+}
