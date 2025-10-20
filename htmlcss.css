@@ -1,34 +1,35 @@
 body {
-    background: #181a20;
-    color: #c92a2a;
-    font-family: 'Inter', system-ui, sans-serif;
+  background: #181a20;
+  color: #c92a2a;
+  font-family: "Inter", system-ui, sans-serif;
 }
 
 .project-list {
-    list-style: none;
-    padding: 10px;
-    margin: 0;
+  list-style: none;
+  padding: 10px;
+  margin: 0;
 }
 
 .lpl {
-    font-size: 1.5rem;
-    font-weight: bold;
-    color: #ac1818;
-    background: #222a3b;
-    border-radius: 250px;
-    padding: 9px 20px;
-    text-decoration: none;
-    display: inline-block;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #ac1818;
+  background: #222a3b;
+  border-radius: 250px;
+  padding: 9px 20px;
+  text-decoration: none;
+  display: inline-block;
+  margin-bottom: 10px;
 }
 
 .lpl:hover {
-    background: #012cad;
-    color: #11151d;
+  background: #012cad;
+  color: #11151d;
 }
 
 hr {
-    border: none;
-    height: 4px;
-    background: #58575c;
-    margin: 350px 0 6px 0;
+  border: none;
+  height: 4px;
+  background: #58575c;
+  margin: 350px 0 6px 0;
 }
